@@ -49,27 +49,27 @@ This app provides a clean user experience, precise alarm triggering, customizabl
 
 ### Splash Screen
 
-![Splash](res/drawable/splash_screen.png)
+![Splash](app/src/main/res/drawable/splash_screen.png)
 
 ### Home Screen
 
-![Home](res/drawable/home_screen.png)
+![Home](app/src/main/res/drawable/home_screen.png)
 
 ### Add / Edit Alarm
 
-![Add Alarm](res/drawable/add_alarm_screen.png)
+![Add Alarm](app/src/main/res/drawable/add_alarm_screen.png)
 
 ### Alarm Ringing Screen
 
-![Ringing](res/drawable/ringing_screen.png)
+![Ringing](app/src/main/res/drawable/ringing_screen.png)
 
 ### Ringtone Picker
 
-![Ringtone Picker](res/drawable/ringtone_picker_screen.png)
+![Ringtone Picker](app/src/main/res/drawable/ringtone_picker_screen.png)
 
 ### Settings Screen
 
-![Settings](res/drawable/settings_screen.png)
+![Settings](app/src/main/res/drawable/settings_screen.png)
 
 ---
 
